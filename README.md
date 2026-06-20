@@ -1,2 +1,1 @@
-# Sales-Data-Analysis
-A basic sales data analysis project using Python, Pandas and Matplotlib for data exploration and visualization.
+https://www.linkedin.com/posts/munagala-ujwala-3456b2377_completed-task-1-data-immersion-wrangling-ugcPost-7472876075115692032-Lg3J/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF0vgmUBhAr1bMjhgnBw5_h0R0l4fkeRHZo
